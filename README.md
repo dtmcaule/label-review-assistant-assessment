@@ -2,6 +2,8 @@
 
 AI-assisted proof of concept for alcohol label verification. The app reads alcohol label artwork, compares visible label text against expected application values, and presents reviewer findings for routine checks.
 
+Live app: https://label-review-assistant-assessment.vercel.app/
+
 The product stance is intentionally human-in-the-loop: the app surfaces `Likely Match`, `Needs Review`, and `Mismatch Detected` findings, but it does not approve or reject applications.
 
 ## Demo Workflow
